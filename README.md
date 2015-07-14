@@ -7,4 +7,4 @@ The final project for uwaterloo course phys375 (Astrophysics 2: Stars).  We had 
 
 Main sequence of stars generated:
 
-![Alt text](/main-sequence.jpg)
+![Alt text](/main-sequence.png)
